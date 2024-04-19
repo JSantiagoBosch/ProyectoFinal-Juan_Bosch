@@ -13,12 +13,11 @@ Este proyecto se puede visualizar en el siguiente link:
 - SweetAlert
 
 ### Iniciar el proyecto
-* Clonar el repositorio
-* Instalamos las dependencias con ``` npm install ```
-* Corremos la app con ``` npm run dev ```
-
+1- Clonar el repositorio ```` git clone ```
+2- Instalamos las dependencias con ``` npm install ```
+3- Corremos la app con ``` npm run dev ```
 
 
 _**Agradecimientos**_
 
-> Muchas gracias por visualizar el proyecto, todas las correcciones son bien recibidas.
+> Muchas gracias por visualizar el proyecto!!!
