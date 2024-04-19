@@ -1,0 +1,14 @@
+.containerCart{
+    background: #121420;
+    padding: 25px;
+}
+
+.sinProducto {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.title {
+    color: white;
+}

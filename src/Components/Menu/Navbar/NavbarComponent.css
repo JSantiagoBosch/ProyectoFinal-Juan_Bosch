@@ -1,0 +1,23 @@
+.li-link {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.estilosBtn {
+    border: none;
+    margin: 2px;
+    color: white;
+    background-color: transparent;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.estilosBtn:hover {
+    margin: 1px;
+    background-color: #a1110c;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}

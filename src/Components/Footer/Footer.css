@@ -1,0 +1,44 @@
+footer {
+    background-color: #202020;
+    text-align: center;
+}
+
+.logofooter {
+    display: inline-block;
+    margin: 25px;
+    padding: 0 20px;
+}
+
+.logofooter img {
+    cursor: pointer;
+    width: 50px;
+    height: auto;
+}
+
+span {
+    color: #b3adad;
+    margin: 5px;
+}
+
+.navbar-nav.nav {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.navbar-nav.nav li {
+    margin-right: 10px;
+}
+
+.link {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.tamIco {
+    width: 90px;
+    height: auto;
+}

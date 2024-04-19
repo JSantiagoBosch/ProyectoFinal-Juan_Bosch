@@ -1,0 +1,32 @@
+.cervezaDescripContainer {
+    color: #fff;
+    padding: 50px;  
+    background-color: #121420;
+}
+
+.cervezaStyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cervezaImg {
+    height: 350px;
+    width: auto;
+}
+
+.customBtn {
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: #a1110c;
+    border: none;
+    text-decoration: none;
+}
+
+.customBtn:hover{
+    background-color: #79120e;
+    color: #dfdfdf;
+
+}

@@ -1,0 +1,10 @@
+.estiloCart {
+    display: flex;
+    align-items: center;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+

@@ -1,0 +1,23 @@
+.fondo-cervezas {
+    background-image: url("/cervezas-14.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.pbSec{
+    padding-top: 20px;
+}
+
+.sub-titulo {
+    border: none;
+    padding: 10px 20px;
+    background-color: #a1110c;
+    border-radius: 5px;
+    color: #ffffff;
+    margin-bottom: 25px;
+}
