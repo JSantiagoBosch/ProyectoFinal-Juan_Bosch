@@ -13,9 +13,9 @@ Este proyecto se puede visualizar en el siguiente link:
 - SweetAlert
 
 ### Iniciar el proyecto
-1- Clonar el repositorio ```` git clone ```
-2- Instalamos las dependencias con ``` npm install ```
-3- Corremos la app con ``` npm run dev ```
+1. Clonar el repositorio ``` git clone ```
+2. Instalamos las dependencias con ``` npm install ```
+3. Corremos la app con ``` npm run dev ```
 
 
 _**Agradecimientos**_
