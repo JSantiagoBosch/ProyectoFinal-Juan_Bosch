@@ -1,6 +1,6 @@
 # Cerveceria Jubilus
 ## Introduccion
-Este proyecto se ha realizo unicamente con fines educativos
+Este proyecto se ha realizo unicamente con fines educativos.
 Se han desarrollado las tareas principales de un ecommerce, como pedir productos de un servidor (en este caso Firebase), mostrar los productos, agregarlos al carrito y generar una orden de compra, para luego guardarla en el servidor
 
 Este proyecto se puede visualizar en el siguiente link:
