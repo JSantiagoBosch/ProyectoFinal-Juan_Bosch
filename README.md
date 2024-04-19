@@ -1,23 +1,24 @@
 # Cerveceria Jubilus
+##Introduccion
+Este proyecto se ha realizo unicamente con fines educativos
+Se han desarrollado las tareas principales de un ecommerce, como pedir productos de un servidor (en este caso Firebase), mostrar los productos, agregarlos al carrito y generar una orden de compra, para luego guardarla en el servidor
 
-- Listado
-* Otra forma de listar
+Este proyecto se puede visualizar en el siguiente link:
+[Cerveceria Jubilus] (https://cerveceria-jubilus.netlify.app/)
 
-[Web React] (https://react.dev/)
+### Tecnologias implementadas
+- React
+- Vite
+- Bootstrap
+- SweetAlert
 
-**Texto en negrita**
+###Iniciar el proyecto
+* Clonar el repositorio
+* Instalamos las dependencias con ~~~ npm install ~~~
+* Corremos la app con ~~~ npm run dev ~~~
 
-_Texto en italica_
 
-> Recuerda instalar las dependencias
-> Graciass
 
-### Para instalar las dependencias
+_ ** Agradecimientos ** _
 
-~~~
-npm install
-~~~
-
-````
-otra forma
-````
+> Muchas gracias por visualizar el proyecto, todas las correcciones son bien recibidas.
