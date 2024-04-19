@@ -7,10 +7,13 @@ Este proyecto se puede visualizar en el siguiente link:
 [Cerveceria Jubilus] (https://cerveceria-jubilus.netlify.app/)
 
 ### Tecnologias implementadas
-- React
-- Vite
 - Bootstrap
-- SweetAlert
+- Firebase
+- React
+- React-dom
+- React-router-dom
+- React-spinners
+- SweetAlert2
 
 ### Iniciar el proyecto
 1. Clonar el repositorio ``` git clone ```
