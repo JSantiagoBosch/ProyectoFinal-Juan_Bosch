@@ -1,6 +1,5 @@
 import Header from "./Components/Header/Header";
 import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
-import Contacto from "./Components/Contacto/Contacto";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ItemDetailContainer from "./Components/ItemDetailContainer/ItemDetailContainer";
 import Footer from "./Components/Footer/Footer";
