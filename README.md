@@ -15,7 +15,7 @@ Este proyecto se puede visualizar en el siguiente link:
 ### Iniciar el proyecto
 * Clonar el repositorio
 * Instalamos las dependencias con ``` npm install ```
-* Corremos la app con ~~~ npm run dev ~~~
+* Corremos la app con ``` npm run dev ```
 
 
 
